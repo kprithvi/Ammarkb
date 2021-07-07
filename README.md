@@ -1,14 +1,14 @@
  ### Hey there! 👋                                                   
                                                               
 <!--               
-**Ammarkb/Ammarkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**kprithvi/kprithvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
          
-I'm Ammar K
-I 💓 Front-End Designing!         
+I'm K Prithvi 
+
+I 💓 Machine learning and Deep Learning        
     
-🔭 I’m currently working on Materialize CSS.                                                                                                    
-🤔 I’m looking for help with experts in Routing and Front-End Design.                                                     
-💬 Lets talk about tech, Competitive coding and Webpage designing.                                                                    
+🔭 I’m currently working on Deep Learning and NLP projects.                                                                                                                
+💬 Lets talk about tech, Machine Learning coding and building neural nets.                                                                    
 ⚡ Hobbies: To Code💻 |  football⚽
    
        
