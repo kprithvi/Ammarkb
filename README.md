@@ -3,7 +3,7 @@
 <!--               
 **Ammarkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
          
-I'm K Prithvi 
+I'm Ammar K
 
 I 💓 Machine learning and Deep Learning        
     
