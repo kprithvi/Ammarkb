@@ -1,7 +1,7 @@
  ### Hey there! 👋                                                   
                                                               
 <!--               
-**kprithvi/kprithvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Ammarkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
          
 I'm K Prithvi 
 
