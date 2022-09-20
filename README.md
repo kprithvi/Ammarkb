@@ -1,9 +1,9 @@
  ### Hey there! 👋                                                   
                                                               
 <!--               
-**Ammarkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**prithvik1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
          
-I'm Ammar K
+I'm Prithvi K
 
 I 💓 Machine learning and Deep Learning        
     
